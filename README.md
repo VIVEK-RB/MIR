@@ -5,3 +5,7 @@ mir-project.ipynb: Real time audio retieval. it provide an interactive user inte
 multilingual_retrieval_system.py: The .py file for real time audio retrieval(for feature extraction and FAISS indexing).
 
 interactive_query.py: It's a part of "multilingual_retrieval_system.py" for creating interactive usrer interface.
+
+preprocessed_features folder contain Librispeech features
+
+tamil_features foled contain tamil features
